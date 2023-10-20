@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Coimbatore",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-09-19T17:11:40.105Z",
+      "notes": "town\n",
+      "position": {
+        "lat": "10.989933368376468",
+        "lng": "76.96745697074644"
+      },
+      "id": 2
+    }
+  ]
+}
